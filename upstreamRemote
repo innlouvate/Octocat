@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+An 'upstream' remote is a non-local repository from which you have forked a version of the repository and which can be synced/pushed to. Upstream remote allows you to push changes made locally to the remote master.
