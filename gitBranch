@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a instance made from the master version of the respository, and tied to the state of the master at the time of branching (unless explicitly updated). It is used to work on the repository in parallel with the master and other branches, which can be subsequently merged to update the master with one or many changes.
